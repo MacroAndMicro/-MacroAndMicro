@@ -13,3 +13,5 @@ https://www.holopin.io/@exponent#badges
 
 Thanks everyone. 
 #Keep_Growing :)
+
+[![An image of @exponent's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/exponent)](https://holopin.io/@exponent)
