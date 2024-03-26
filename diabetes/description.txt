@@ -1,0 +1,1 @@
+The dataset has 768 data related to the factors which influences if a person has diabetes or not.
